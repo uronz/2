@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(white, grey);
+}
+div:hover{
+    box-shadow: 5px 5px 5px 0 white;
+    transition: ease-in 1s;
+}
+div{
+  width: 830px;  
+  height:550px ;
+  margin: 10px;
+}
